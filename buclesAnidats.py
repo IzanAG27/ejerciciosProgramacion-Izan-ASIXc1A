@@ -7,4 +7,3 @@ while contI <= 10:
         contJ += 1
     print("--------------")
     contI += 1
-
